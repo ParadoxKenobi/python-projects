@@ -1,4 +1,4 @@
-# Beginner Student Grade Calculator (NO loops, NO if)
+# Beginner Student Grade Calculator 
 
 # Step 1: Ask for each score
 math = float(input("Enter your Math score: "))
